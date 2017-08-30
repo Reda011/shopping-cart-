@@ -1,0 +1,62 @@
+{
+  "status": 0,
+  "message": "success",
+  "result": {
+      "totalMoney":59,
+      "list":[
+      {
+      "name": "黄鹤楼",
+      "price": 19,
+      "count": 1,
+      "amount": 19,
+      "imgPic": "img/goods-1.jpg",
+      "gifts": [
+        {
+          "partId":"10001",
+          "partName":"打火机"
+        },
+        {
+          "partId":"10002",
+          "partName":"火柴"
+        }
+      ]
+      },
+      {
+      "name": "加多宝",
+      "price": 20,
+      "count": 1,
+      "amount": 20,
+      "imgPic": "img/goods-2.jpg",
+        "gifts": [
+          {
+            "partId":"10001",
+            "partName":"吸管"
+          },
+          {
+            "partId":"10002",
+            "partName":"火柴盒"
+          }
+        ]
+      },
+        {
+          "name": "面具",
+
+          "price": 20,
+          "count": 3,
+          "amount": 60,
+          "imgPic": "img/test1.jpg",
+          "gifts": [
+            {
+              "partId":"10001",
+              "partName":"打火机"
+            },
+            {
+              "partId":"10002",
+              "partName":"火柴盒"
+            }
+          ]
+        }
+      ]
+  }
+
+}
